@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhanushree @dhanu-shre3
 - 👀 I’m an aspiring coder/designer/technology enthusiast
-- 🌱 programming languages: JavaScript, Python and Flask framework
-- 💞️ I’m looking for roles in Software developmemt
+- 🌱 programming languages: JavaScript, Python and SQL
+- 💞️ I’m looking for roles in Software developmemt and data
 - 📫 How to reach me: https://www.linkedin.com/in/dhanushreemsomaiah/
 
 <!---
