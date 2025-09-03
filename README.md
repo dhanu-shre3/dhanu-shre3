@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm Dhanushree
 
-💡 I'm an aspiring coder, designer, and technology enthusiast passionate about creating digital solutions.  
+💡 I'm an aspiring coder, designer, and technology enthusiast passionate about building tools that sit at the intersection of **data, design, and people**. .  
 🌱 I'm currently learning and working with: **TypeScript**, **HTML/CSS**, **JavaScript**, **Python**, and **SQL**  
 🎓 I have completed an MSc in Computing at Cardiff University, UK.  
 🎯 Continuously expanding my knowledge in modern web technologies and best practices.  
@@ -40,11 +40,11 @@
 - 🐍 Exploring Python for data analysis
 - 💾 Understanding database design and optimization
 
-### ✨ Fun Facts About Me
+---
 
-- 🎨 I have a keen eye for design and user experience
-- 📚 Always eager to learn something new every day
-- ☕ Powered by coffee and curiosity
+### 🔹 Fun fact
+I started in **psychology and journalism**, then transitioned into software engineering — now I bring both **storytelling** and **analysis** into the way I build.  
+
 
 ---
 
