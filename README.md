@@ -2,16 +2,11 @@
 # Hi there! 👋 I'm Dhanushree
 
 💡 I'm an aspiring coder, designer, and technology enthusiast passionate about creating digital solutions.
-
-🌱 I'm currently learning and working with: **TypeScriptL**, **HTML/CSS**, **JavaScript**, **Python**, and **SQL**
-
-🎯 I'm focused on building my skills in web development.
-
-🎓 Continuously expanding my knowledge in modern web technologies and best practices.
-
+🌱 I'm currently learning and working with: **TypeScript**, **HTML/CSS**, **JavaScript**, **Python**, and **SQL**
+🎓 I have completed an MSc in Computing at Cardiff University, UK.
+🎯 Continuously expanding my knowledge in modern web technologies and best practices.
 💻 I love turning ideas into code and creating user-friendly interfaces.
-
-🔍 Currently exploring new frameworks and libraries to enhance my development toolkit.
+❤️ In my free time, I paint, write on Substack, and create tech content on Instagram.
 
 📫 Let's connect and collaborate:
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhanushreemsomaiah/)
