@@ -1,6 +1,52 @@
-- 👋 Hi, I’m Dhanushree @dhanu-shre3
-- 👀 I’m an aspiring coder/designer/technology enthusiast
-- 🌱 programming languages: HTML,CSS, JavaScript, Python and SQL
-- 📫 How to reach me: https://www.linkedin.com/in/dhanushreemsomaiah/
+
+# Hi there! 👋 I'm Dhanushree
+
+💡 I'm an aspiring coder, designer, and technology enthusiast passionate about creating digital solutions.
+
+🌱 I'm currently learning and working with: **TypeScriptL**, **HTML/CSS**, **JavaScript**, **Python**, and **SQL**
+
+🎯 I'm focused on building my skills in web development.
+
+🎓 Continuously expanding my knowledge in modern web technologies and best practices.
+
+💻 I love turning ideas into code and creating user-friendly interfaces.
+
+🔍 Currently exploring new frameworks and libraries to enhance my development toolkit.
+
+📫 Let's connect and collaborate:
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhanushreemsomaiah/)
+- 📧 Feel free to reach out for collaborations or just to say hi!
+
+---
+
+### 🛠️ Technologies & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### 📊 GitHub Stats
+
+![Dhanushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanu-shre3&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu-shre3&layout=compact&theme=radical)
+
+### 🎨 What I'm Working On
+
+- 🌐 Building responsive web applications
+- 📱 Learning modern JavaScript frameworks
+- 🐍 Exploring Python for data analysis
+- 💾 Understanding database design and optimization
+
+### ✨ Fun Facts About Me
+
+- 🎨 I have a keen eye for design and user experience
+- 📚 Always eager to learn something new every day
+- ☕ Powered by coffee and curiosity
+
+---
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=dhanu-shre3&color=brightgreen&style=flat-square)
