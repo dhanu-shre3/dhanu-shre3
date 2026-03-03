@@ -1,16 +1,7 @@
 
 # Hi there! 👋 I'm Dhanushree
 
-💡 I'm an aspiring coder, designer, and technology enthusiast passionate about building tools that sit at the intersection of **data, design, and people**. .  
-🌱 I'm currently learning and working with: **TypeScript**, **HTML/CSS**, **JavaScript**, **Python**, and **SQL**  
-🎓 I have completed an MSc in Computing at Cardiff University, UK.  
-🎯 Continuously expanding my knowledge in modern web technologies and best practices.  
-💻 I love turning ideas into code and creating user-friendly interfaces.  
-❤️ In my free time, I paint, write on Substack, and create tech content on Instagram.  
-
-📫 Let's connect and collaborate:
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhanushreemsomaiah/)
-- 📧 Feel free to reach out for collaborations or just to say hi!
+💡 I'm an aspiring coder, designer, and technology enthusiast passionate about building tools that sit at the intersection of **data, design, and people**. 
 
 ---
 
@@ -27,18 +18,9 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 
-### 📊 GitHub Stats
-
-![Dhanushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanu-shre3&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanu-shre3&layout=compact&theme=radical)
-
 ### 🎨 What I'm Working On
 
-- 🌐 Building responsive web applications
-- 📱 Learning modern JavaScript frameworks
-- 🐍 Exploring Python for data analysis
-- 💾 Understanding database design and optimization
+Working on AWS certification
 
 ---
 
