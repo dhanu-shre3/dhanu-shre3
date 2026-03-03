@@ -1,5 +1,5 @@
 
-# Hi there! 👋 I'm Dhanushree
+# Hi there! 👋 I'm Dhanu
 
 💡 I'm an aspiring coder, designer, and technology enthusiast passionate about building tools that sit at the intersection of **data, design, and people**. 
 
